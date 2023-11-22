@@ -1,4 +1,4 @@
-package com.example.mod.mixins;
+package com.github.dreaght.mixins;
 
 import net.minecraft.client.Minecraft;
 import org.spongepowered.asm.mixin.Mixin;

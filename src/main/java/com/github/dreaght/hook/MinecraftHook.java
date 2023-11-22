@@ -1,4 +1,4 @@
-package com.example.mod.hook;
+package com.github.dreaght.hook;
 
 import net.weavemc.loader.api.Hook;
 import org.jetbrains.annotations.NotNull;

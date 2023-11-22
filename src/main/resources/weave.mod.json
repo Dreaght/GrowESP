@@ -1,11 +1,11 @@
 {
   "mixinConfigs": [
-    "examplemod.mixins.json"
+    "GrowESP.mixins.json"
   ],
   "entrypoints": [
-    "com.example.mod.ExampleMod"
+    "com.github.dreaght.GrowESP"
   ],
   "hooks": [
-    "com.example.mod.hook.MinecraftHook"
+    "com.github.dreaght.hook.MinecraftHook"
   ]
 }

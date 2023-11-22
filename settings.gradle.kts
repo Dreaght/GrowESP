@@ -1,4 +1,4 @@
-rootProject.name = "ExampleMod"
+rootProject.name = "GrowESP"
 
 pluginManagement {
     repositories {

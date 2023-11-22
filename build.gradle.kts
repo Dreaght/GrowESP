@@ -3,7 +3,7 @@ plugins {
     id("com.github.weave-mc.weave-gradle") version "649dba7468"
 }
 
-group = "com.example"
+group = "com.github.dreaght"
 version = "1.0"
 
 minecraft.version("1.8.9")
@@ -21,4 +21,9 @@ dependencies {
 
 tasks.compileJava {
     options.release.set(11)
+}
+
+tasks.jar {
+    archiveFileName.set("GrowESP.jar")
+    destinationDirectory.set(file("C:\\Users\\nikit\\.weave\\mods"))
 }
